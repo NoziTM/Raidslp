@@ -12,7 +12,7 @@ client.on('ready', async () => {
     client.user.setPresence({
       
         game: {
-            name: ' utilise la touche *help',
+            name: 'https://discord.gg/suNRHjm',
             type: "STREAMING",
             url: "https://www.twitch.tv/caredas_"
         }
